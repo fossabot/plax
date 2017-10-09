@@ -1,4 +1,6 @@
 # Plax
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fplax.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fplax?ref=badge_shield)
+
 
 Plax is a [jQuery](http://jquery.com) plugin that makes it suuuuuper easy to parallax elements in your site based on mouse position. You can see it implemented in many places throughout GitHub, including the [404 page](http://www.github.com/404), the [500 page](http://www.github.com/500), and the [about page](http://www.github.com/about). I've also used a modified version to [parallax a URL](http://projects.cameronmcefee.com/parallax-url).
 
@@ -144,3 +146,7 @@ The principals from the previous scenario are still present in this situation, o
 - __Smarter Plaxing:__ Right now Plax assumes your items are absolutely positioned. In the future I'd like to have Plax convert the current positioning scheme to what it needs, allowing initially relatively positioned elements.
 
 - __plaxTo()__ It'd be cool if you could give Plax a percentage to parallax to. This would allow for more than just the mouse as the source of input.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fplax.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fplax?ref=badge_large)
